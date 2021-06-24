@@ -35,7 +35,7 @@ I'm Nanda Hafiza, Junior Front-End developer from Malang, Indonesian.
 
 [![](https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/nand_aha29/)
 [![](https://img.shields.io/badge/-LinkedIn-black?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nandahafiza/)
-[![](https://img.shields.io/badge/-WA Bussiness-black?logo=WhatsApp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send?phone=628972814842)
+[![](https://img.shields.io/badge/-WA_Bussiness-black?logo=WhatsApp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send?phone=628972814842)
 [![](https://img.shields.io/badge/-Dribbble-black?logo=Dribbble&logoColor=white&style=for-the-badge)](https://dribbble.com/nandahafiza)
 
 <!--   ![Nanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandaha29&hide=contribs,prs) -->
