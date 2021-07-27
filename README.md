@@ -17,7 +17,7 @@ I'm Nanda Hafiza, Junior Front-End developer from Malang, Indonesian.
 ![](https://img.shields.io/badge/-Mysql-blue?logo=Mysql&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Prettier-yellow?logo=Prettier&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Sequelize-darkblue?logo=Sequelize&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/-Github-blue?logo=Github&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/-Github-blue?logo=Github&logoColor=white&style=flat-square)<br/>
 ![](https://img.shields.io/badge/-Heroku-purple?logo=Heroku&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Git-red?logo=Git&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-React.js-blue?logo=React&logoColor=white&style=flat-square)
@@ -37,6 +37,7 @@ I'm Nanda Hafiza, Junior Front-End developer from Malang, Indonesian.
 [![](https://img.shields.io/badge/-LinkedIn-black?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nandahafiza/)
 [![](https://img.shields.io/badge/-WA_Bussiness-black?logo=WhatsApp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send?phone=628972814842)
 [![](https://img.shields.io/badge/-Dribbble-black?logo=Dribbble&logoColor=white&style=for-the-badge)](https://dribbble.com/nandahafiza)
+[![](https://img.shields.io/badge/-Codepen-black?logo=Codepen&logoColor=white&style=for-the-badge)](https://codepen.io/nandaha29)
 
 <!--   ![Nanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandaha29&hide=contribs,prs) -->
 <!--
