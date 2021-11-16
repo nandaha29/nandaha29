@@ -39,6 +39,7 @@ I'm Nanda Hafiza, Junior Front-End developer from Malang, Indonesian.
 [![](https://img.shields.io/badge/-Dribbble-black?logo=Dribbble&logoColor=white&style=for-the-badge)](https://dribbble.com/nandahafiza)
 [![](https://img.shields.io/badge/-Codepen-black?logo=Codepen&logoColor=white&style=for-the-badge)](https://codepen.io/nandaha29)
 [![](https://img.shields.io/badge/-CodeSandbox-black?logo=CodeSandbox&logoColor=white&style=for-the-badge)](https://codesandbox.io/u/nanda.hafiza29)
+[![](https://img.shields.io/badge/-Gitlab-black?logo=Gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/nanda.hafiza29)
 
 
 
