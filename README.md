@@ -1,6 +1,6 @@
 ## Hey! Nice to see you. 👋
 
-<!-- My name is Nanda Hafiza, a Junior Front-End Developer at Thunderlabs. -->
+<!-- My name is Nanda Hafiza, a Software Engineering -->
 Welcome to my page!<br/>
 I'm Nanda Hafiza, Junior Front-End developer from Malang, Indonesian.
 <ul>
