@@ -2,7 +2,7 @@
 
 <!-- My name is Nanda Hafiza, a Software Engineering -->
 Welcome to my page!<br/>
-I'm Nanda Hafiza, Junior Front-End developer from Malang, Indonesian.
+I'm Nanda Hafiza, Software Engineering from Malang, Indonesian.
 <ul>
  <li>🔭 I’m currently studying on SMK Telkom Malang.</li>
  <li>🌱 I’m currently learning UI/UX Design and Frontend Web Development.</li>
